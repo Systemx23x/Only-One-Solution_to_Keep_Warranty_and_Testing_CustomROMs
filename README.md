@@ -87,7 +87,7 @@ Download Here >>>>>> <a href= https://c.1und1.de/@1157988897574099954/E6kNgL5EAy
  
  <a href=https://sourceforge.net/projects/andyyan-gsi/>AndyYans GSI - LineageOS</a><br>
  <a href=https://sourceforge.net/directory/gsis/>GSI Index - Sourceforge</a><br>
- <a href=https://developer.android.com/about/versions/16/gsi-release-notes?hl=de#downloads>Google Android 16 Beta GSI</a><br>
+ <a href=https://developer.android.com/about/versions/16/gsi-release-notes>Google Android 16 Beta GSI</a><br>
  <a href=https://github.com/musabcel/android_rom_list>Android ROM Index</a><br>
  <a href=https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list>GSI ROM Index - phhussen</a><br>
  <a href=https://github-wiki-see.page/m/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list>Github Wiki - GSI Index</a><br>
